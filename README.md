@@ -12,3 +12,4 @@ Its ok ?
 ### Wistow
 
 * Test online
+* Run online
